@@ -30,7 +30,7 @@
     "nest"
   ],
   "license": "ISC",
-  "name": "homebridge-nest",
+  "name": "homebridge-nest-test",
   "preferGlobal": true,
   "scripts": {
     "lint": "eslint lib *.js",
@@ -45,7 +45,7 @@
         "node": ">=7.0.0",
         "homebridge": ">=0.2.5"
       },
-      "pkgid": "homebridge-nest@4.6.3"
+      "pkgid": "homebridge-nest-test@4.6.3"
     }
   ]
 }
